@@ -1,2 +1,3 @@
-# Data-Structure
-C++ Language files for Data Structure and Algorithm subjects.
+# Data Structure and Algorithm
+
+C/C++ and other language files for Data Structure and Algorithm subjects.
