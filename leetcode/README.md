@@ -2,6 +2,7 @@
 
 - [Easy](./easy)
   - [Two Sum](./easy/two_sum)
+  - [Reverse Integer](./easy/reverse_integer)
 
 - [Medium](./medium)
   - [Add Two Numbers](./medium/add_two_numbers)
